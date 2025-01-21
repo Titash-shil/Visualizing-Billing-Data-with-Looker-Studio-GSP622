@@ -10,11 +10,11 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Classify-Images-with-TensorFlow-on-Google-Cloud-Challenge-Lab-GSP398/refs/heads/main/qwiklab_explorers_gsp398.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Visualizing-Billing-Data-with-Looker-Studio-GSP622/refs/heads/main/qwiklab_explorers_gsp622.sh
 
-sudo chmod +x qwiklab_explorers_gsp398.sh
+sudo chmod +x qwiklab_explorers_gsp622.sh
 
-./qwiklab_explorers_gsp398.sh
+./qwiklab_explorers_gsp622.sh
 ```
 
 ---
